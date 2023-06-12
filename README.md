@@ -1,2 +1,0 @@
-# MineSweeperReact
-Created with CodeSandbox
